@@ -3,7 +3,8 @@ html, body {
     min-height: 100vh;
     height: auto;
     /* background: linear-gradient(to left, rgb(238,166,251), rgb(238,166,251)); */
-    background: url('./assets/dave.jpg');
+    /* background: url('./assets/dave.jpg'); */
+    background: linear-gradient(to right, rgb(9,223,247), rgb(238,166,251));
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Comic Neue', cursive;
