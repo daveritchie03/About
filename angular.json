@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "Cutoo": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Cutoo"
+    }
+  },
+  "defaultProject": "Cutoo",
+  "cli": {
+    "analytics": "834a378c-6cac-4fb4-b86f-7a9482699d36"
+  }
 }

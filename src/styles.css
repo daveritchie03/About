@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+html, body {
+    min-height: 100vh;
+    height: auto;
+    /* background: linear-gradient(to left, rgb(238,166,251), rgb(238,166,251)); */
+    background: url('./assets/dave.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Comic Neue', cursive;
+}
